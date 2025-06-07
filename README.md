@@ -103,7 +103,7 @@ premiumgenie/
 ## 🌐 Project Links
 
 - 🔗 GitHub Repo: [GitHub](https://github.com/RAWhulKerudi/premiumgenie)
-- 🚀 Live Demo: [Demo](https://your-app-url.com)
+- 🚀 Live Demo: [Demo](https://premiumgenie-insurance-premium-predictor.streamlit.app/)
 
 ---
 
