@@ -107,8 +107,3 @@ premiumgenie/
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions to improve the model accuracy, UI/UX, or to add new features like policy recommendations or risk profiling.
-
----
